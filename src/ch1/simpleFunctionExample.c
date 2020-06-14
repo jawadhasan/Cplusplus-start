@@ -12,7 +12,6 @@ float celsius_to_kelvin(float celsius){
 
 int main()
 {
-
     //This example is step forward from whileLoopExample.
     //This shows use of functions and how we can reduce number of variables
     //Notice: interim variables fahrenheit and kelvin are replaced with direct function calls.
